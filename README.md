@@ -2,8 +2,8 @@
 
 ## Front-end web developer and enthusiast
 
-- 💻 I'm currently working on an eCommerce application platform
-- 📚 I'm currently learning JS DOM manipulation
+- 💻 I'm currently working on an ECommerce application landing page
+- 📚 I'm currently learning on JS DOM manipulation
 - 🥅 2021 Goals: Land a junior role
 - 🧩 Autism advocate!
 
